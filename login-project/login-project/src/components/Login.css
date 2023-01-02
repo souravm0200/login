@@ -1,0 +1,10 @@
+.Vcenter {
+    margin-top: 20vh;
+}
+
+@media screen and (max-width: 800px) {
+    .l-card {
+        width: 100%;
+        height: 100%;
+    }
+}
